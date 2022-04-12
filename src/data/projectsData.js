@@ -7,7 +7,7 @@ export const projectsData = [
     infos:
       "Application mobile permettant à un utilisateur de veaziter des lieux de manière ludique en collectionnant des trophées ! ",
     img: "./assets/img/Veazit.png",
-    link: "https://obscure-inlet-50473.herokuapp.com/",
+    link: "https://drive.google.com/file/d/1zUczCnrg4OB4v4abFi4nyn0dE6i5X-Ab/view?usp=sharing",
   },
   {
     id: 2,
