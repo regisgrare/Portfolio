@@ -14,7 +14,7 @@ const Project1 = () => {
                 <Navigation />
                 <Logo />
                 <Project projectNumber={0} />
-                <Buttons left={"/"} right={"/contact"} />
+                <Buttons left={"/"} right={"/projet-2"} />
             </div>
         </main>
     );

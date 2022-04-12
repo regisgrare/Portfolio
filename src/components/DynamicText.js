@@ -5,7 +5,7 @@ const DynamicText = () => {
     useEffect(() => {
 
         const target = document.getElementById("text-target")
-        let array = ["passionné", "curieux", "motivé"]
+        let array = ["passionné", "curieux", "investi"]
         let wordIndex = 0;
         let letterIndex = 0;
 

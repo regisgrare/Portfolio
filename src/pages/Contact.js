@@ -43,7 +43,7 @@ const Contact = () => {
                     </div>
                     {/* <SocialNetwork /> */}
                 </div>
-                <Buttons left={"/projet-1"} />
+                <Buttons left={"/projet-2"} />
             </div>
         </main>
     );
